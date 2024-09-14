@@ -1,3 +1,10 @@
+- This is the cooperative project I involved.
+- I implemented a calculator for arithmetic, exponential, logarithmic, squaring, bracketing and error checking
+- I built the frontend and bridged it to the backend via flask allowing users a calculator on the webpage
+- I had unit testing coverage above 100% of backend codes through unittest!
+- Technology used: HTML5 + Python3 decimal math Flask + Docker
+- I folked this from the original repo.
+
 # SWENGAssignment2  
 Assignment Description  
 In this assignment, you need to apply what you've learned in using Docker for containerizing web applications and performing the Continuous Delivery pipeline. You will be working in a group of 4 members (all the groups for this assignment are now listed in the group section). You are asked to develop a calculator web app. The web app will take a mathematical expression in string format from the text box and should be able to validate and evaluate the mathematical expression.  
